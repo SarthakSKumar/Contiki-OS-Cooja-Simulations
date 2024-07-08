@@ -34,8 +34,11 @@ cd Contiki-OS-Cooja-Simulations
 
 ### Contributors
 
-- [@anubhav1433](https://github.com/anubhav1433)
-- [@sohoxic](https://github.com/sohoxic)
+<a href="https://github.com/SarthakSKumar/Contiki-OS-Cooja-Simulations
+/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SarthakSKumar/Contiki-OS-Cooja-Simulations
+" />
+</a>
 
 ## License
 
